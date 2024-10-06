@@ -1,4 +1,5 @@
 import image from img1
+
 .img1
 {
   background-image: url("bg.jpg");
