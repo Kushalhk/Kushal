@@ -21,5 +21,6 @@
 
 👉 ғᴏʟʟᴏᴡ ᴏɴ ɪɴꜱᴛᴀɢʀᴀᴍ
 <p align="middle">        
-<a href="https://www.instagram.com/kannada_movies25/profilecard/?igsh=YzU5Nng0NmMxZWgx"><img src="[[-purple.svg?logo=telegram](https://img.shields.io/badge/instagram-pink.svg?logo=instagram)"></a>
+<a href="https://www.instagram.com/kannada_movies25/profilecard/?igsh=YzU5Nng0NmMxZWgx"><img src="https://img.shields.io/badge/ɪɴꜱᴛᴀɢʀᴀᴍ-pink.svg?logo=instagram"></a>
+
 
