@@ -4,16 +4,8 @@
 
 
 
-<div align="center">
-<br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p> 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TG-V4MP1R3}/count.svg"/></p>
 
-<p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=Kushalhk&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kushalhk&theme=highcontrast)](https://github.com/Kushalhk/github-readme-streak-stats)
-</div>
 
 👉 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 𝙤𝙣 𝙩𝙚𝙡𝙚𝙜𝙧𝙖𝙢
 <p align="middle">        
